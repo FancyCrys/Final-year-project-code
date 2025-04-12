@@ -1,4 +1,4 @@
-# 🚦 Smart AI Traffic Control System
+#  Smart AI Traffic Control System
 
 A low-cost, Raspberry Pi–based intelligent traffic light controller using real-time computer vision and adaptive logic to optimize vehicle flow at intersections.
 
