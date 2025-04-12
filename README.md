@@ -45,4 +45,5 @@ https://youtube.com/shorts/67UjEdX1ZpA
 - Jumper wires & 220Ω resistors
 - MicroSD card with Raspberry Pi OS
 
-
+BLOG LINK:-
+https://heroveno68.wixsite.com/ai-traffic-managemen
