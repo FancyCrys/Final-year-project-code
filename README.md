@@ -10,11 +10,11 @@ Built with Python, OpenCV, and RPi.GPIO — this project is a proof-of-concept f
 
 ##  Features
 
-- 🚗 Detects vehicles in 3 separate lanes using a PiCamera
-- 🧠 Dynamically adjusts green light duration based on real-time traffic density
-- 💡 Simulates traffic signals using LEDs connected to GPIO pins
-- 📷 Lightweight image processing using OpenCV (no ML model required)
-- ⚙️ Runs fully offline – ideal for remote, low-resource environments
+-  Detects vehicles in 3 separate lanes using a PiCamera
+-  Dynamically adjusts green light duration based on real-time traffic density
+-  Simulates traffic signals using LEDs connected to GPIO pins
+-  Lightweight image processing using OpenCV (no ML model required)
+-  Runs fully offline – ideal for remote, low-resource environments
 
 ---
 
